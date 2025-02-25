@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 , I'm Leonardo Ferreira</h1>
-<h3 align="center">Júnior Full-Stack Developer de Portugal</h3>
+<h3 align="center">Junior Full-Stack Developer from Portugal</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
