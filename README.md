@@ -32,9 +32,6 @@
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express.js" width="40" height="40"/>
   </a>
-  <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/restful-apis.svg" alt="REST API" width="40" height="40"/>
-  </a>
   <a href="https://graphql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" alt="GraphQL" width="40" height="40"/>
   </a>
@@ -63,9 +60,6 @@
   <a href="https://www.heroku.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>
   </a>
-  <a href="https://www.hostinger.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Hostinger_logo.svg" alt="hostinger" width="40" height="40"/>
-  </a>
   
   <!-- Ferramentas de Controlo de Versões & IDE -->
   <a href="https://git-scm.com/" target="_blank">
@@ -87,12 +81,6 @@
   <!-- Design & Outros -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Search_engine_optimization" target="_blank">
-    <img src="https://seeklogo.com/images/S/seo-logo-3B0C97C2C0-seeklogo.com.png" alt="seo" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Artificial_Intelligence_%28logo%29.svg" alt="ai" width="40" height="40"/>
   </a>
 </p>
 
