@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu Sou o Leonardo Ferreira</h1>
+<h1 align="center">Hello 👋 , I'm Leonardo Ferreira</h1>
 <h3 align="center">Júnior Full-Stack Developer de Portugal</h3>
 
 <h3 align="left">Connect with me:</h3>
