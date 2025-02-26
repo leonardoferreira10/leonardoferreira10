@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full-Stack Developer from Portugal</h3>
 
 <p align="center">
-  I am passionate about code and coffee ☕, focused on learning and building scalable, secure, and efficient web solutions.
+  I am passionate about code and coffee ☕, focused on learning, building scalable, secure, and efficient web solutions, and solving challenging problems.
 </p>
 
 ---
