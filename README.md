@@ -2,15 +2,31 @@
 <h3 align="center">Junior Full-Stack Developer de Portugal</h3>
 
 <p align="center">
-  Sou apaixonado por código, focado em aprender e construir soluções web escaláveis, seguras e eficientes.
+  Sou apaixonado por código e café ☕, focado em aprender e construir soluções web escaláveis, seguras e eficientes.
 </p>
 
 ---
 
 ## Sobre Mim
-- 🔭 Atualmente, estou a tirar Licenciatura em Engenharia Informática, desenvolver projetos pessoais e a aprofundar os meus conhecimentos em tecnologias modernas.
-- 🌱 Estou sempre a aprender algo novo, com foco em melhorar as minhas skills em **JavaScript, Node.js, React, Python, IA**.
+- 🔭 Estudante de Engenharia Informática, desenvolvendo projetos pessoais e aprofundando os meus conhecimentos em tecnologias modernas.
+- 🌱 Estou sempre a aprender algo novo, com foco em aprimorar as minhas skills em **JavaScript, Node.js, React, Python e IA**.
 - 📫 Podes entrar em contacto comigo através do [LinkedIn](https://linkedin.com/in/leonardo-ferreira-professional) ou enviar um email para [leonardoferreira596@gmail.com](mailto:leonardoferreira596@gmail.com).
+
+---
+
+## Projetos Recentes
+<p align="center">
+  <a href="https://github.com/leonardoferreira10/projeto1" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Projeto 1" width="150"/>
+  </a>
+  <a href="https://github.com/leonardoferreira10/projeto2" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Projeto 2" width="150"/>
+  </a>
+  <!-- Adiciona quantos projetos deseja, atualizando os links e imagens -->
+</p>
+<p align="center">
+  <em>Confira os meus projetos no GitHub para ver mais do meu trabalho.</em>
+</p>
 
 ---
 
