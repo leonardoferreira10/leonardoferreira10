@@ -16,16 +16,28 @@
 
 ## Projetos Recentes
 <p align="center">
-   <!-- <a href="https://github.com/leonardoferreira10/projeto1" target="_blank">
+  <!-- Aqui podes inserir miniaturas ou links para os teus projetos -->
+  <!-- Exemplo:
+  <a href="https://github.com/leonardoferreira10/projeto1" target="_blank">
     <img src="https://via.placeholder.com/150" alt="Projeto 1" width="150"/>
   </a>
   <a href="https://github.com/leonardoferreira10/projeto2" target="_blank">
     <img src="https://via.placeholder.com/150" alt="Projeto 2" width="150"/>
-  </a> -->
+  </a>
+  -->
   <!-- Adiciona quantos projetos deseja, atualizando os links e imagens -->
 </p>
 <p align="center">
   <em>Confira os meus projetos no GitHub para ver mais do meu trabalho.</em>
+</p>
+
+---
+
+## Portfolio
+<p align="center">
+  <a href="https://leonardoferreira.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visite%20aqui-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
