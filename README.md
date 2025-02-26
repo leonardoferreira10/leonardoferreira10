@@ -2,23 +2,22 @@
 <h3 align="center">Junior Full-Stack Developer de Portugal</h3>
 
 <p align="center">
-  Sou apaixonado por código e café ☕, focado em construir soluções web escaláveis e eficientes.
+  Sou apaixonado por código, focado em aprender e construir soluções web escaláveis, seguras e eficientes.
 </p>
 
 ---
 
 ## Sobre Mim
-- 🔭 Atualmente, estou a desenvolver projetos pessoais e a aprofundar os meus conhecimentos em tecnologias modernas.
-- 🌱 Estou sempre a aprender algo novo, com foco em melhorar as minhas skills em **JavaScript, Node.js, React e Python**.
-- 💬 Pergunta-me sobre desenvolvimento web, API REST ou automação de processos.
-- 📫 Podes entrar em contacto comigo através do [LinkedIn](https://linkedin.com/in/leonardo-ferreira-professional) ou enviar um email para [leonardo@example.com](mailto:leonardo@example.com).
+- 🔭 Atualmente, estou a tirar Licenciatura em Engenharia Informática, desenvolver projetos pessoais e a aprofundar os meus conhecimentos em tecnologias modernas.
+- 🌱 Estou sempre a aprender algo novo, com foco em melhorar as minhas skills em **JavaScript, Node.js, React, Python, IA**.
+- 📫 Podes entrar em contacto comigo através do [LinkedIn](https://linkedin.com/in/leonardo-ferreira-professional) ou enviar um email para [leonardoferreira596@gmail.com](mailto:leonardoferreira596@gmail.com).
 
 ---
 
 ## Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoFerreira&show_icons=true&theme=dracula" alt="Estatísticas de Leonardo Ferreira" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFerreira&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardoferreira10&show_icons=true&theme=dracula" alt="Estatísticas de Leonardo Ferreira" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoferreira10&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -74,10 +73,7 @@
   <a href="https://linkedin.com/in/leonardo-ferreira-professional" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="https://twitter.com/seu_usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30" />
-  </a>
-  <a href="mailto:leonardo@example.com" target="_blank">
+  <a href="mailto:leonardoferreira596@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Email" width="30" height="30" />
   </a>
 </p>
