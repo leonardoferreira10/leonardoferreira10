@@ -16,12 +16,12 @@
 
 ## Projetos Recentes
 <p align="center">
-  <a href="https://github.com/leonardoferreira10/projeto1" target="_blank">
+   <!-- <a href="https://github.com/leonardoferreira10/projeto1" target="_blank">
     <img src="https://via.placeholder.com/150" alt="Projeto 1" width="150"/>
   </a>
   <a href="https://github.com/leonardoferreira10/projeto2" target="_blank">
     <img src="https://via.placeholder.com/150" alt="Projeto 2" width="150"/>
-  </a>
+  </a> -->
   <!-- Adiciona quantos projetos deseja, atualizando os links e imagens -->
 </p>
 <p align="center">
